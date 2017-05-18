@@ -1,0 +1,134 @@
+@charset "utf-8";
+/* CSS Document */
+
+::selection{background-color:#8d1812; color:#FFFFFF;}
+
+/*--------------------------------------------------------------
+Primary Color
+--------------------------------------------------------------*/
+
+/**Font Color**/
+
+a, .dt-sc-ico-content:hover h4 a, footer .widget ul li:before, footer .dt-sc-contact-info a:hover, .mailchimp-form p span, .dt-sc-ico-content.type1:hover h4 a, .fullwidth_banner h1, .audio-list h5 a:hover, .author-description h5 a:hover, .events-list h2 a:hover, .faq h5.dt-sc-toggle-accordion a:hover, .faq h5.dt-sc-toggle-accordion.active a, .dt-sc-team:hover .team-details h4, .highlighter, ul.dt-sc-tabs li a.current, .entry-title h3, .summary p.price span, ul.dt-sc-tabs-vertical-frame li a.current, .faq .dt-sc-toggle-frame h5.active a, .faq h5.dt-sc-toggle a:hover, .faq h5.dt-sc-toggle.active a, ul.dt-sc-social-icons li a:hover, #main-menu .megamenu-child-container .widget ul.product_list_widget li a:hover, #main-menu .megamenu-child-container .widget ul.product_list_widget li span.amount, .dt-sc-ico-content.type2 h6 a:hover, .dt-sc-ico-content.type2:hover h6 a, .recent_studys h6 a:hover, .widget_recent_entries .entry-title h6 a:hover, .dt-sc-simple-button:hover, .faq h5.dt-sc-toggle-accordion.active:before, .breadcrumb-section .breadcrumb a:hover, .pagination .next-post a:hover, .pagination .prev-post a:hover, #primary.page-with-sidebar .dt-sc-one-column .entry-title h5 a:hover, .entry-meta .alignright p a:hover, #secondary .widget_categories ul li a:hover, #secondary .widget_categories ul li:hover:before, .about-author .author-description h6 a:hover, ul.commentlist li .author-name a:hover, .comment-details a:hover, ul.dt-sc-locations li > a:hover, ul.dt-sc-tabs li a.current, .attorney_content h6 a:hover, .our-people-detail-info ul li a:hover, .dt-sc-contact-info a:hover, .dt-sc-ico-content.type3 h6 a:hover, .widget.widget_text h6 a:hover, #main-menu ul.menu ul.sub-menu li.current_page_item > a, #main-menu ul.menu li ul li a:hover, .dt-sc-ico-content.type3:hover h6 a, .dt-sc-counter .icon span, .ls-l.caption-2, #secondary .widget .investigation_content h6 a:hover, ul.dt-sc-locations li .dt-sc-text-overlay a:hover{color:#8d1812;}
+
+/**Background Color**/
+
+th, .top-bar, .dt-sc-bordered-button, #main-menu > ul > li:hover > a, #main-menu > ul.menu > li.current_page_item > a, #main-menu > ul.menu > li > a:hover, .dt-sc-ico-content.type1:hover, .dt-sc-ico-content.type2:hover .icon, .entry-meta .comments, .dt-sc-button, .mailchimp-form input[type="submit"], .dt-sc-bordered-title:before, .dt-sc-toggle-frame h5.dt-sc-toggle-accordion.active:after, .dt-sc-toggle-frame h5.dt-sc-toggle.active:after, h5.dt-sc-toggle-accordion.active:after, ul.dt-sc-tabs-frame li a.current, ul.dt-sc-tabs-vertical-frame li a.current, h5.dt-sc-toggle.active:before, h5.dt-sc-toggle-accordion.active:before, #secondary.type2 .widget:after, blockquote q:before, blockquote q:after, ul.dt-sc-locations li .dt-sc-text-overlay a.dt-sc-button:hover, .dt-sc-titled-box h4.dt-sc-titled-box-title, .breadcrumb-section h1, .dt-sc-attorney-carousel-wrapper .carousel-arrows a:hover, .dt-sc-ico-content.type1:hover:before, .dt-sc-hr-title:after, .megamenu-child-container:before, #main-menu ul li.menu-item-simple-parent ul:before, .dt-sc-ico-content.type3:hover .icon span, .dt-sc-simple-border-button:hover, .fixed-help-form .help-form input[type=submit]{background-color:#8d1812;}
+
+/**Slider Caption Color**/
+
+.ls-l.caption-1{background:rgba(2, 36, 68, 0.9);}
+
+#slider .ls-wp-container .ls-slide .caption-1{border-left:5px solid rgba(141, 24, 18, 0.9);}
+
+#slider .ls-wp-container .ls-slide .caption-list{border-left:5px solid #841811;}
+
+
+/**Border Colors**/
+
+.dt-sc-ico-content.type1, .dt-sc-ico-content.type2:hover .icon, .dt-sc-testimonial:hover .author img, .dt-sc-team:hover .dt-sc-team-thumb img, .faq h5.dt-sc-toggle-accordion.active:before, .dt-sc-simple-border-button:hover{border-color:#8d1812;}
+
+.dt-sc-tabs-frame-content{border-top-color:#8d1812;}
+
+footer, .dt-sc-ico-content.type1:after{border-bottom-color:#8d1812;}
+
+.dt-sc-callout-box.type1, .dt-sc-callout-box.type3{border-left-color:#8d1812;}
+
+/**Box Shadow Colors**/
+
+.dt-sc-bordered-button, input[type=submit], .dt-sc-ico-content.type3:hover .icon span{box-shadow:0px 0px 0px 2px #8d1812; -moz-box-shadow:0px 0px 0px 2px #8d1812; -webkit-box-shadow:0px 0px 0px 2px #8d1812;}
+
+#secondary .widget_text .dt-sc-bordered-button{box-shadow:0px 0px 0px 5px #8d1812; -moz-box-shadow:0px 0px 0px 5px #8d1812; -webkit-box-shadow:0px 0px 0px 5px #8d1812;}
+
+/*--------------------------------------------------------------
+Secondary Color
+--------------------------------------------------------------*/
+
+/**Font Color**/
+
+a:hover, .widget_recent_entries .entry-title h6 a, .dt-sc-simple-button, .office_locations, #primary.page-with-sidebar .dt-sc-one-column .entry-title h5 a, .entry-meta .alignright p a, #secondary .widget_categories ul li a, #secondary .widget_categories ul li:before, .about-author .author-description h6 a, ul.commentlist li .author-name a, .comment-details a, ul.dt-sc-locations li > a, .our-people-detail-info ul li a, ul.dt-sc-locations li:after, .intro-text span.dt-sc-highlight, .pagination ul li a, .pagination .next-post a, .pagination .prev-post a, .dt-sc-highlight, .megamenu-child-container > ul.sub-menu > li > a, .megamenu-child-container > ul.sub-menu > li > .nolink-menu, .dt-sc-highlight.skin-color, ul.dt-sc-locations li .dt-sc-text-overlay a{color:#022444;}
+
+/**Background Color**/
+
+#menu-container, .dt-sc-ico-content.type1, .dt-sc-ico-content.type1:before, .entry-meta .date, .mailchimp, .mailchimp:before, footer, .dt-sc-colored-box, .dt-sc-toggle-frame h5.dt-sc-toggle-accordion:after, .dt-sc-toggle-frame h5.dt-sc-toggle:after, .dt-sc-toggle-frame h5.dt-sc-toggle-accordion:after, h5.dt-sc-toggle-accordion:before, h5.dt-sc-toggle:before, ul.dt-sc-locations li .dt-sc-text-overlay a.dt-sc-button, .dt-sc-attorney-carousel-wrapper .carousel-arrows a, #secondary.type2 .widget:before, footer, .pagination ul li a:hover, .dt-sc-pr-tb-col.selected .dt-sc-tb-header .dt-sc-price, .dt-sc-hr-title:before, .dt-sc-counter:hover .icon, .dt-sc-video-wrapper h6, .fixed-help-form, .fixed-help-form .fixed-help-form-icon{background-color:#022444;}
+
+
+/**Border Colors**/
+
+.dt-sc-team .dt-sc-team-thumb img, .attorney_content .image img, .our-people-detail .image img, .about-author .author-thumb img, .pagination ul li a:hover, .dt-sc-testimonial .author img, .menu-item-widget-area-container .textwidget img{border-color:#022444;}
+
+footer, ul.dt-sc-tabs-frame li a, .dt-sc-bordered-title, .fixed-help-form .help-form span.select-sort:before{border-top-color:#022444;}
+
+#main-menu > ul.menu > li.current_page_item > a:after, .dt-sc-ico-content.type1:hover:after, .dt-sc-ico-content.type1:hover{border-bottom-color:#022444;}
+
+.fixed-help-form, .fixed-help-form .fixed-help-form-icon{border-color:#183c5d;}
+
+/**Box Shadow Colors**/
+
+ul.commentlist li .comment-author img{box-shadow:0px 0px 0px 2px #022444; -moz-box-shadow:0px 0px 0px 2px #022444; -webkit-box-shadow:0px 0px 0px 2px #022444;}
+
+
+/*--------------------------------------------------------------
+Main Styles
+--------------------------------------------------------------*/
+
+/**Background Color**/
+
+.dt-sc-colored-box h5{background-color:#02203d;}
+
+.dt-sc-colored-box:hover{background-color:#7f1917;}
+
+.dt-sc-colored-box:hover h5{background-color:#711614;}
+
+.fullwidth-background.benefits_section:before, .fullwidth-background.count_section:before{background-color:rgba(127,25,23,0.9);}
+
+.megamenu-child-container .dt-sc-ico-content.type1{
+background: -moz-linear-gradient(144deg, #032a4e 0%,#032a4e 50%,#022444 51%,#022444 100%); /* FF3.6+ */
+background: -webkit-linear-gradient(144deg, #032a4e 0%,#032a4e 50%,#022444 51%,#022444 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(144deg, #032a4e 0%,#032a4e 50%,#022444 51%,#022444 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(144deg, #032a4e 0%,#032a4e 50%,#022444 51%,#022444 100%); /* IE10+ */
+background: linear-gradient(144deg, #032a4e 0%,#032a4e 50%,#022444 51%,#022444 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#032a4e', endColorstr='#022444',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */}
+
+.megamenu-child-container .dt-sc-ico-content.type1:hover{
+background: -moz-linear-gradient(144deg, #961913 0%,#961913 50%,#8d1812 51%,#8d1812 100%); /* FF3.6+ */
+background: -webkit-linear-gradient(144deg, #961913 0%,#961913 50%,#8d1812 51%,#8d1812 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(144deg, #961913 0%,#961913 50%,#8d1812 51%,#8d1812 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(144deg, #961913 0%,#961913 50%,#8d1812 51%,#8d1812 100%); /* IE10+ */
+background: linear-gradient(144deg, #961913 0%,#961913 50%,#8d1812 51%,#8d1812 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#961913', endColorstr='#8d1812',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */}
+
+.fixed-help-form .help-form span.select-sort:after{background-color:#3b6082;}
+
+/**Font Color**/
+
+footer, footer a, footer p, footer .widget_recent_entries h6 a, footer .widget_recent_entries .entry-meta span, footer .widget_recent_entries .entry-meta .date, footer .widget_recent_entries .entry-meta .comments, footer ul.dt-sc-social-icons li a, footer .widget_text_logo h4, footer .widget_text_logo span i, .fixed-help-form p, .fixed-help-form .help-form input[type=text], .fixed-help-form .help-form input[type=email], .fixed-help-form .help-form select, .help-form .success-msg{color:#4c7296;}
+
+.fixed-help-form .help-form input[type=text]::-webkit-input-placeholder{color:#4c7296;}
+
+.fixed-help-form .help-form input[type=text]:-moz-placeholder{color:#4c7296;}
+
+.fixed-help-form .help-form input[type=text]::-moz-placeholder{color:#4c7296;}
+
+.fixed-help-form .help-form input[type=text]:-ms-input-placeholder{color:#4c7296;}
+
+footer a:hover, footer .widget_recent_entries ul li h6 a:hover, footer ul.dt-sc-social-icons li a:hover, footer .entry-meta a:hover, footer .dt-sc-contact-info a:hover, footer .widget_recent_entries .entry-meta .comments:hover, footer .widget_recent_entries .entry-meta .comments:hover span, .pagination ul li a:hover{color:#8fbfed;}
+
+
+/**Border Colors**/
+
+.dt-sc-colored-box h5{border-bottom-color:#274b6d;}
+
+.dt-sc-colored-box:hover h5{border-bottom-color:#8b1e1c;}
+
+
+/**Background Image**/
+
+footer{background-image:url(images/glow.png);}
+
+
+
+
+
+
+
